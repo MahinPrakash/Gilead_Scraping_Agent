@@ -1,0 +1,6 @@
+requests
+ssl
+trafilatura 
+logging
+asyncio
+httpx
